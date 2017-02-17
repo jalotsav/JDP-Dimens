@@ -5,6 +5,7 @@ You can use this library for reduce your design work. Using this library you nee
 ## How to Use?
 
 Here is example for set Width and Height for ImageView
+
 ```
 <ImageView
     android:layout_width="@dimen/_50jdp"
@@ -22,6 +23,7 @@ Here is example for set Width and Height for ImageView
 
 - Add downloded AAR file under app(module)-->libs directory of your project.
 - Add below code in to app/build.gradle
+
 ```
 android {
   ...
@@ -40,6 +42,7 @@ dependencies {
 ```
 
 **Add dependency in Gradle**
+
 ```
 compile 'com.jalotsav.design:jdpdimens:1.0.0'
 ```
@@ -50,6 +53,7 @@ The jdp size calculation includes some approximation due to some performance and
 ### Inspired by [sdp](https://github.com/intuit/sdp)
 
 ## License
+
 ```
 Copyright (c) 2017 Jalotsav
 
