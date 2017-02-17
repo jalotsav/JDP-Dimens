@@ -1,4 +1,4 @@
-package com.jalotsav.jdpdimenslib;
+package com.jalotsav.jdpdimens;
 
 import org.junit.Test;
 

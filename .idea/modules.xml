@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JDP-Dimens.iml" filepath="$PROJECT_DIR$/JDP-Dimens.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jdpdimenslib/jdpdimenslib.iml" filepath="$PROJECT_DIR$/jdpdimenslib/jdpdimenslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdpdimens/jdpdimens.iml" filepath="$PROJECT_DIR$/jdpdimens/jdpdimens.iml" />
     </modules>
   </component>
 </project>

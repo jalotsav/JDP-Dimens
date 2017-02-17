@@ -1,1 +1,1 @@
-include ':app', ':jdpdimenslib'
+include ':app', ':jdpdimens'

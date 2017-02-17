@@ -1,4 +1,4 @@
-package com.jalotsav.jdpdimenslib;
+package com.jalotsav.jdpdimens;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
